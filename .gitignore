@@ -1,0 +1,9 @@
+node_modules/
+.env
+*.log
+.DS_Store
+dist/
+build/
+.firebase/
+unitime-db5fa-firebase-adminsdk-fbsvc-*.json
+server/unitime-db5fa-firebase-adminsdk-fbsvc-*.json
